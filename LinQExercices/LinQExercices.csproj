@@ -11,8 +11,4 @@
     <ProjectReference Include="..\DataSources\DataSources.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Export\" />
-  </ItemGroup>
-
 </Project>

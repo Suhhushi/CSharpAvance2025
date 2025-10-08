@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataSources", "DataSources\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "imgOpty", "imgOpty\imgOpty.csproj", "{73CFE897-8C57-B9E4-ACF2-3FA57ED2C8FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqExercicePresentationNet8", "LinqExercicePresentationNet8\LinqExercicePresentationNet8.csproj", "{FC64A5EA-A208-E6D1-F0B3-7BE4C26F5029}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinQExercices", "LinQExercices\LinQExercices.csproj", "{14A88520-856D-416F-B70C-E356FEB3A8D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{73CFE897-8C57-B9E4-ACF2-3FA57ED2C8FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73CFE897-8C57-B9E4-ACF2-3FA57ED2C8FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73CFE897-8C57-B9E4-ACF2-3FA57ED2C8FE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FC64A5EA-A208-E6D1-F0B3-7BE4C26F5029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FC64A5EA-A208-E6D1-F0B3-7BE4C26F5029}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FC64A5EA-A208-E6D1-F0B3-7BE4C26F5029}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FC64A5EA-A208-E6D1-F0B3-7BE4C26F5029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14A88520-856D-416F-B70C-E356FEB3A8D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14A88520-856D-416F-B70C-E356FEB3A8D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14A88520-856D-416F-B70C-E356FEB3A8D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14A88520-856D-416F-B70C-E356FEB3A8D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
