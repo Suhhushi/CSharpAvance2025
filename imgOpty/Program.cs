@@ -7,10 +7,10 @@ using System.Text;
 int[] TargetHeights = { 1080, 720, 480 };
 
 // Construction des chemins nécessaires pour le projet et les dossiers d'entrée/sortie
-string ProjectRoot = Path.GetFullPath(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"..\..\..\")); // Racine projet
-string SourceDirectory = Path.Combine(ProjectRoot, "Images"); // Dossier images source
-string SequentialOutputDirectory = Path.Combine(ProjectRoot, "ImageSequential"); // Dossier sortie séquentielle
-string ParallelOutputDirectory = Path.Combine(ProjectRoot, "ImageParallel"); // Dossier sortie parallèle
+string ProjectRoot = Path.GetFullPath(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"..\..\..\"));
+string SourceDirectory = Path.Combine(ProjectRoot, "Images");
+string SequentialOutputDirectory = Path.Combine(ProjectRoot, "ImageSequential"); 
+string ParallelOutputDirectory = Path.Combine(ProjectRoot, "ImageParallel");
 
 // Création des dossiers si besoin (pour éviter les erreurs plus loin)
 Directory.CreateDirectory(SourceDirectory);
