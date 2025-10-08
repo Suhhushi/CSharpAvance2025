@@ -12,26 +12,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="ImageParallel\initGitDirectory.txt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <LastGenOutput>initGitDirectory.cs</LastGenOutput>
-    </None>
-    <None Update="ImageSequential\initGitDirectory.txt">
-      <LastGenOutput>initGitDirectory.cs</LastGenOutput>
-      <Generator>TextTemplatingFileGenerator</Generator>
-    </None>
-  </ItemGroup>
-
-  <ItemGroup>
     <Service Include="{508349b6-6b84-4df5-91f0-309beebad82d}" />
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Update="ImageSequential\initGitDirectory.cs">
-      <DesignTime>True</DesignTime>
-      <AutoGen>True</AutoGen>
-      <DependentUpon>initGitDirectory.txt</DependentUpon>
-    </Compile>
+    <Folder Include="ImageParallel\" />
+    <Folder Include="ImageSequential\" />
   </ItemGroup>
 
 </Project>
