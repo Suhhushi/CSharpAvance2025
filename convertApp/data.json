@@ -1,0 +1,79 @@
+{
+  "MusicCollection": [
+    {
+      "Id": 1,
+      "Name": "Thriller",
+      "Artist": "Michael Jackson"
+    },
+    {
+      "Id": 2,
+      "Name": "Back in Black",
+      "Artist": "AC/DC"
+    },
+    {
+      "Id": 3,
+      "Name": "The Dark Side of the Moon",
+      "Artist": "Pink Floyd"
+    },
+    {
+      "Id": 4,
+      "Name": "Rumours",
+      "Artist": "Fleetwood Mac"
+    },
+    {
+      "Id": 5,
+      "Name": "Hotel California",
+      "Artist": "Eagles"
+    },
+    {
+      "Id": 6,
+      "Name": "Abbey Road",
+      "Artist": "The Beatles"
+    },
+    {
+      "Id": 7,
+      "Name": "Led Zeppelin IV",
+      "Artist": "Led Zeppelin"
+    },
+    {
+      "Id": 8,
+      "Name": "Born in the U.S.A.",
+      "Artist": "Bruce Springsteen"
+    },
+    {
+      "Id": 9,
+      "Name": "Sgt. Pepper's Lonely Hearts Club Band",
+      "Artist": "The Beatles"
+    },
+    {
+      "Id": 10,
+      "Name": "Nevermind",
+      "Artist": "Nirvana"
+    },
+    {
+      "Id": 11,
+      "Name": "OK Computer",
+      "Artist": "Radiohead"
+    },
+    {
+      "Id": 12,
+      "Name": "Bad",
+      "Artist": "Michael Jackson"
+    },
+    {
+      "Id": 13,
+      "Name": "Appetite for Destruction",
+      "Artist": "Guns N' Roses"
+    },
+    {
+      "Id": 14,
+      "Name": "1989",
+      "Artist": "Taylor Swift"
+    },
+    {
+      "Id": 15,
+      "Name": "The Wall",
+      "Artist": "Pink Floyd"
+    }
+  ]
+}
