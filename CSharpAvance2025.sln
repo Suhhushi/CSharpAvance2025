@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertApp", "convertApp\Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataSources", "DataSources\DataSources.csproj", "{EE177A56-1B0B-6DDC-94F9-8FFD0246ADF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "imgOpty", "imgOpty\imgOpty.csproj", "{73CFE897-8C57-B9E4-ACF2-3FA57ED2C8FE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImgOpty", "imgOpty\ImgOpty.csproj", "{73CFE897-8C57-B9E4-ACF2-3FA57ED2C8FE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinQExercices", "LinQExercices\LinQExercices.csproj", "{14A88520-856D-416F-B70C-E356FEB3A8D2}"
 EndProject
